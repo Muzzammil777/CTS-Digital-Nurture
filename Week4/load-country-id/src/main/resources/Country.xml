@@ -1,0 +1,10 @@
+<countries>
+    <country>
+        <code>IN</code>
+        <name>India</name>
+    </country>
+    <country>
+        <code>UK</code>
+        <name>United KINGDOM</name>
+    </country>
+</countries>
